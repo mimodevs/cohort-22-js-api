@@ -1,1 +1,1 @@
-# cohort-22-js-api
+# MealsDB JavaScript API Project
